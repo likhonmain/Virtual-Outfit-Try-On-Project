@@ -1,0 +1,5 @@
+{
+  "name": "Final Virtual Trial Web App",
+  "description": "An AI-powered web application that allows you to virtually try on clothing. Upload a photo of a person and an outfit, and the AI will generate an image of the person wearing the new clothes while preserving their face and the background.",
+  "requestFramePermissions": []
+}
